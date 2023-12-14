@@ -20,7 +20,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=zhemdbs&show_icons=true&theme=transparent&hide_border=true"/> 
       </td>
       <td align="top" width="50%">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhemdbs&layout=compact&border_color=transparent&hide_border=true"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhemdbs&layout=compact&border_color=transparent&theme=transparent&hide_border=true"/>
       </td>
     </tr>
   </table>
